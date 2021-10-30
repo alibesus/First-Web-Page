@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+body
+{
+font-family: 'Playball', cursive;
+max-width: 800px;
+margin: 0 auto;
+background-color: #1A1A1D;
+}
+
+h1
+{
+text-align: center;
+font-family:'Playball', cursive;
+color:  #C3073F;
+}
+h2 {
+text-align: center;
+font-family:'Playball', cursive;
+color:  #C3073F;
+}
+li
+{
+	font-family:'Playball', cursive;
+	color:  #C3073F;
+}
+p{
+	font-family:'Playball', cursive;
+	color:#C3073F ;
+}
